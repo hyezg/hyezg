@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/hyezg&layout=Demo&theme=dark)-->
-<a href="https://github.com/hyezg"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyezg&layout=compact&theme=dracula&hide_border=true" /></a> 
+
