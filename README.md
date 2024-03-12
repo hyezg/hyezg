@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=_CDE4AD&height=200&section=header&text=hyejeong%&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=CDE4AD&height=200&section=header&text=Hyejeong's%20GitHub&fontSize=70)
 
 <!--
 **hyezg/hyezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
