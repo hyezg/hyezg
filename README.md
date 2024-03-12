@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=CDE4AD&height=250&section=header&text=Hyejeong's%20GitHub&fontSize=60&animation=scaleIn)
 
+<div>
+  <a href="https://velog.io/@0601a/posts"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+</div>
+
+
 <!--
 **hyezg/hyezg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
